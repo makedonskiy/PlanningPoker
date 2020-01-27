@@ -1,3 +1,12 @@
+.mainList{
+    font-size: 16px;
+    color: green;
+}
+
+.mainList a{
+    color: chocolate;
+}
+
 .big { font-size: 3em; }
 
 .tex {
