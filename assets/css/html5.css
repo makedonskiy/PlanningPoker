@@ -1,0 +1,46 @@
+body {
+    font: 0.8em Arial, Helvetica, sans-serif;
+    background: #D7E1F2;
+    color: #ffe;
+    width: 500px;
+    margin: 5px auto;
+}
+
+a {
+     color: #008BCE;
+}
+
+.container {
+    background: #FCE600;
+}
+
+header { 
+    font-size: 2.2em;
+    text-align: center;
+    padding: 0px;
+    line-height: 1.5em;
+    background: #D71920;
+}
+
+nav {
+    float: left; width: 110px; padding: 5px;
+}
+
+aside {
+    float: left; width: 110px; padding: 5px;
+    float: right; color: #000;
+}
+
+.content {
+    background: #54B948;
+    margin: 0 120px;
+    padding: 10px;
+}
+
+h2 { margin: 0 0 1em; }
+
+footer { 
+    clear: both;
+    padding: 5px;
+    background: #D71920;
+}
