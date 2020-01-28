@@ -1,0 +1,17 @@
+.c:before {
+     margin-right: 10px;
+}
+
+.spades:before { content: '\2660'; }
+
+.clubs:before { content: '\2663'; }
+
+.diamonds:before {
+    content: '\2666';
+    color: red;
+}
+
+.hearts:before {
+    content: '\2665';
+    color: red;
+}
