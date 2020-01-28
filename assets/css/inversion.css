@@ -1,0 +1,14 @@
+p {
+	background-color: red;
+	color: #fff;
+	min-height: 100px;
+	font: 60px Impact, sans-serif;
+	white-space: pre;
+	padding-left: 20px;
+	position: relative;
+}
+
+p span {
+	position: absolute;
+	bottom: -13px;
+}

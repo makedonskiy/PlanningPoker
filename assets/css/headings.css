@@ -1,0 +1,15 @@
+body { background-color: #DEDECA; }
+
+h1 {
+	color: #630;
+	font-family: Arial;
+	font-size: 1.8em;
+}
+
+h2 { color: black; }
+
+h3 { color: #963; }
+
+span a{
+	color: #360;
+}
