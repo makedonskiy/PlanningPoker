@@ -1,0 +1,9 @@
+.big {
+    font-size: 3em;
+    font-style: normal;
+}
+
+.big sub, .big sup{
+    font-style: italic;
+    font-size: 0.5em;
+}
