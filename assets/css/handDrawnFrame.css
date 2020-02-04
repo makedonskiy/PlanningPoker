@@ -1,0 +1,10 @@
+.block {
+    border: 20px solid red;
+    background-color: rgb(243, 208, 8);
+    min-height: 50px;
+    padding: 10px;
+    -moz-border-image: url(../images/border.png) 25 25 25 25 round;
+    -webkit-border-image: url(../images/border.png) 25 25 25 25 round;
+    -o-border-image: url(../images/border.png) 25 25 25 25 round;
+    border-image: url(../images/border.png) 25 25 25 25 round;
+}

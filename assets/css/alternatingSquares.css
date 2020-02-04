@@ -1,0 +1,18 @@
+div {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+div:hover {
+    background: #ff9f19;
+}
+
+.b {
+    background: black;
+}
+
+.r {
+    background: #009abf;
+}

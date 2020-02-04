@@ -1,0 +1,40 @@
+.battery {
+    border: 4px black solid;
+    height: 50px;
+    width: 150px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.battery::after,
+.battery::before {
+    content: '';
+    position: absolute;
+}
+
+.battery::after {
+    background-color: black;
+    height: 20px;
+    width: 10px;
+    right: -10px;
+    top: 15px;
+}
+
+.battery::before {
+    height: 100%;
+}
+
+.r::before {
+    background-color: red;
+    width: 33%;
+}
+
+.y::before {
+    background-color: yellow;
+    width: 66%;
+}
+
+.g::before {
+    background-color: green;
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+div {
+    background: #333;
+    padding: 15px;
+}
+
+.link1,
+.link2 {
+    border-right: 1px solid #bbb;
+    padding-right: 5px;
+}
+
+.link1 {
+    color: red;
+}
+
+.link2 {
+    color: turquoise;
+}
+
+.link3 {
+    color: yellow;
+}
