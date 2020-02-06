@@ -1,0 +1,28 @@
+div {
+    display: inline-block;
+    background-color: green;
+    width: 370px;
+    height: 80px;
+    line-height: 80px;
+    padding-left: 30px;
+    position: relative;
+    color: white;
+}
+
+div::after,
+div::before {
+    content: '';
+    position: absolute;
+    background-color: green;
+    height: 70px;
+    width: 5px;
+    top: 5px;
+}
+
+div::after {
+    right: -5px;
+}
+
+div::before {
+    left: -5px;
+}

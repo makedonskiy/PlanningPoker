@@ -9,6 +9,7 @@ body {
 }
 
 .card {
+    background-color: chartreuse;
     display: inline-block;
     margin-right: 5px;
     border-style: solid;
@@ -29,6 +30,7 @@ body {
 .cardContent {
     display: table-cell;
     color: white;
+    font-size: 24pt;
     text-align: center;
     vertical-align: middle;
 }
